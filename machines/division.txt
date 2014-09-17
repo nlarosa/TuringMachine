@@ -1,0 +1,22 @@
+Q:q1,q2,q3,q4,q5,q6
+A:a,b
+Z:a,A,b,B, ,c
+T:q1,a,q1,a,R
+T:q1,A,q1,A,R
+T:q1,b,q2,B,L
+T:q2,B,q2,B,L
+T:q2,A,q2,A,L
+T:q2,a,q3,A,R
+T:q2, ,q5, ,L
+T:q3,c,q3,c,R
+T:q3,A,q3,A,R
+T:q3,B,q3,B,R
+T:q3, ,q4,c,L
+T:q3,b,q2,B,L
+T:q4,A,q4,A,L
+T:q4,B,q4,b,L
+T:q4,c,q4,c,L
+T:q4,a,q1,a,R
+T:q4, ,q5, ,L
+S:q1
+F:q5,q6
